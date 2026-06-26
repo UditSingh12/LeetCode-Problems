@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0039-combination-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0704-binary-search](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0704-binary-search/) | Easy |
@@ -54,5 +55,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
