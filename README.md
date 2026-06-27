@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0190-reverse-bits](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0190-reverse-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/UditSingh12/LeetCode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sorting
@@ -61,4 +62,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0704-binary-search](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0704-binary-search/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->
