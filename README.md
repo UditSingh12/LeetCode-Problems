@@ -98,4 +98,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
