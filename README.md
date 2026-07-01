@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0224-basic-calculator](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0224-basic-calculator/) | Hard |
 | [0258-add-digits](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
+| [0509-fibonacci-number](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,4 +123,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0224-basic-calculator](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0224-basic-calculator/) | Hard |
+| [0509-fibonacci-number](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
