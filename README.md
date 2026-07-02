@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0367-valid-perfect-square](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
+| [0441-arranging-coins](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0224-basic-calculator/) | Hard |
 | [0258-add-digits](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0367-valid-perfect-square](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
+| [0441-arranging-coins](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0441-arranging-coins/) | Easy |
 | [0509-fibonacci-number](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
