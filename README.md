@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0704-binary-search](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0704-binary-search/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/UditSingh12/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/UditSingh12/LeetCode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/UditSingh12/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0704-binary-search/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/UditSingh12/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0637-average-of-levels-in-binary-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/UditSingh12/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,4 +144,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/UditSingh12/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/UditSingh12/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 <!---LeetCode Topics End-->
