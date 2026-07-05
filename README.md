@@ -169,4 +169,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0016-3sum-closest/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 <!---LeetCode Topics End-->
