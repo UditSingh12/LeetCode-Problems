@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0016-3sum-closest](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0016-3sum-closest/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0036-valid-sudoku](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0039-combination-sum/) | Medium |
 | [0049-group-anagrams](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
+| [0036-valid-sudoku](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/UditSingh12/LeetCode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0036-valid-sudoku/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UditSingh12/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
