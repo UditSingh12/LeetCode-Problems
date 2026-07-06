@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -106,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UditSingh12/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -174,4 +178,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 <!---LeetCode Topics End-->
