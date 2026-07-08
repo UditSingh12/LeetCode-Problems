@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0016-3sum-closest/) | Medium |
 | [0049-group-anagrams](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0036-valid-sudoku](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/UditSingh12/LeetCode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Segment Tree
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,12 +113,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UditSingh12/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
