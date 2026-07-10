@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,4 +194,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 <!---LeetCode Topics End-->
