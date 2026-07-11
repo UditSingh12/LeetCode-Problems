@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0036-valid-sudoku](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -187,12 +188,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0016-3sum-closest/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0142-linked-list-cycle-ii](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Graph Theory
