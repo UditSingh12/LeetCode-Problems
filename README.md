@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
