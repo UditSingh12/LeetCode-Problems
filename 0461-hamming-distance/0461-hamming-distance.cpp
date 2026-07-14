@@ -9,6 +9,6 @@ public:
             diff >>= 1;
         }
 
-        return count++;
+        return count;
     }
 };
