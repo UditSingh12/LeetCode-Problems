@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0190-reverse-bits/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/UditSingh12/LeetCode-Problems/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
