@@ -9,6 +9,6 @@ public:
             x >>= 1;
         }
 
-        return count;
+        return count++;
     }
 };
