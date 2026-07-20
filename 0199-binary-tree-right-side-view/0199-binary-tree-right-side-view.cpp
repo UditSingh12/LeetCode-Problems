@@ -13,20 +13,25 @@ class Solution {
 public:
     /*
         We have used Recursive Approach Using Reverse Pre-Order (Root->Right->Left)
-        Core approach is At every Level we just chosoe Rightest Node
+        Core approach is At every Level,we just chosoe Rightest Node
     */
-
-    void helper(TreeNode* root,int level,vector<int> &res){
-        if(root==NULL) return;
-        if(res.size()==level) res.push_back(root->val);
-        helper(root->right,level+1,res);
-        helper(root->left,level+1,res);
+    void rightView(TreeNode* root,int level,vector<int> &res){
+        if(root==NULL){
+            return;
+        }
+        if(level==res.size()){
+            res.push_back(root->val);
+        }
+        //Reverse Pre-Order: Root->Right->Left
+        rightView(root->right,level+1,res);
+        rightView(root->left,level+1,res);
     }
-
+    
     vector<int> rightSideView(TreeNode* root) {
-        vector<int>res;
-        helper(root,0,res);
+        vector<int> res;
+        rightView(root,0,res);
         return res;
+
 
     }
 };
