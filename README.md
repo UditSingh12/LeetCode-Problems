@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
