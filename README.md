@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
@@ -144,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0199-binary-tree-right-side-view/) | Medium |
