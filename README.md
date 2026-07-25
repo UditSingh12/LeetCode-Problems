@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1260-shift-2d-grid](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
+| [1260-shift-2d-grid](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/UditSingh12/LeetCode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory
@@ -224,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0036-valid-sudoku/) | Medium |
+| [1260-shift-2d-grid](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UditSingh12/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
