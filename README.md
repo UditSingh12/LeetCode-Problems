@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0056-merge-intervals/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0204-count-primes](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0704-binary-search/) | Easy |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0204-count-primes/) | Medium |
 | [0224-basic-calculator](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0224-basic-calculator/) | Hard |
 | [0258-add-digits](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
 | [0367-valid-perfect-square](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/UditSingh12/LeetCode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -280,4 +283,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/UditSingh12/LeetCode-Problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
