@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0877-stone-game](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1260-shift-2d-grid](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0441-arranging-coins/) | Easy |
 | [0509-fibonacci-number](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/UditSingh12/LeetCode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/UditSingh12/LeetCode-Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -228,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -293,4 +296,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/UditSingh12/LeetCode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
