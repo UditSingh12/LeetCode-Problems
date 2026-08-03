@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0224-basic-calculator](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0224-basic-calculator/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0796-rotate-string](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0796-rotate-string/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
@@ -310,4 +311,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
