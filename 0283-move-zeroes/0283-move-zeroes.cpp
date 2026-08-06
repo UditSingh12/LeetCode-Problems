@@ -3,7 +3,10 @@ public:
     void moveZeroes(vector<int>& nums) {
         int n=nums.size();
         int j=0;
-
+        /**
+        * iteration using i pointer to iterate
+        * using j pointer to swap non zero values 
+        */
         for(int i=0;i<n;i++){
             if(nums[i]!=0){
                 swap(nums[i],nums[j]);
