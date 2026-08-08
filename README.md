@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0872-leaf-similar-trees](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
