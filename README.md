@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0605-can-place-flowers](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0605-can-place-flowers/) | Easy |
 | [0704-binary-search](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0704-binary-search/) | Easy |
+| [0724-find-pivot-index](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0724-find-pivot-index/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1260-shift-2d-grid](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0724-find-pivot-index](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0724-find-pivot-index/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/UditSingh12/LeetCode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
