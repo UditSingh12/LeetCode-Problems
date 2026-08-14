@@ -1,21 +1,20 @@
 class Solution {
 public:
     int maximumLengthSubstring(string s) {
-        int n = s.length();
+        unordered_map<char, int> mp;
+
+        int left = 0;
         int ans = 0;
 
-        for (int i = 0; i < n; i++) {
-            vector<int> freq(26, 0);
+        for (int right = 0; right < s.length(); right++) {
+            mp[s[right]]++;
 
-            for (int j = i; j < n; j++) {
-                freq[s[j] - 'a']++;
-
-                // More than 2 occurrences 
-                if (freq[s[j] - 'a'] > 2)
-                    break;
-
-                ans = max(ans, j - i + 1);
+            while (mp[s[right]] > 2) {
+                mp[s[left]]--;
+                left++;
             }
+
+            ans = max(ans, right - left + 1);
         }
 
         return ans;
