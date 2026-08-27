@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/UditSingh12/LeetCode-Problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/UditSingh12/LeetCode-Problems/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UditSingh12/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/UditSingh12/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/UditSingh12/LeetCode-Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/UditSingh12/LeetCode-Problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/UditSingh12/LeetCode-Problems/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/UditSingh12/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UditSingh12/LeetCode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/UditSingh12/LeetCode-Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
