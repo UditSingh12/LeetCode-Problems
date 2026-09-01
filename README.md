@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/UditSingh12/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/UditSingh12/LeetCode-Problems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/UditSingh12/LeetCode-Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/UditSingh12/LeetCode-Problems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/UditSingh12/LeetCode-Problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/UditSingh12/LeetCode-Problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/UditSingh12/LeetCode-Problems/tree/main/3731-find-missing-elements/) | Easy |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/UditSingh12/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UditSingh12/LeetCode-Problems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/UditSingh12/LeetCode-Problems/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/UditSingh12/LeetCode-Problems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/UditSingh12/LeetCode-Problems/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/UditSingh12/LeetCode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/UditSingh12/LeetCode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0461-hamming-distance](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0461-hamming-distance/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/UditSingh12/LeetCode-Problems/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/UditSingh12/LeetCode-Problems/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/UditSingh12/LeetCode-Problems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/UditSingh12/LeetCode-Problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -204,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UditSingh12/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/UditSingh12/LeetCode-Problems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -289,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0036-valid-sudoku/) | Medium |
 | [1260-shift-2d-grid](https://github.com/UditSingh12/LeetCode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/UditSingh12/LeetCode-Problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/UditSingh12/LeetCode-Problems/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
