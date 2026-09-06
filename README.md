@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
+| [0115-distinct-subsequences](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0224-basic-calculator](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0224-basic-calculator/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/UditSingh12/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
